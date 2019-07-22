@@ -18,6 +18,13 @@ const example = {
 }
 
 // Write your intern objects here:
+const mitzi = {
+  "id": 0,1,2,3,4,5;
+  "name": "Example",
+  "email": "examples@you.edu",
+  "gender": "F","F","M"
+}
+
 
 
 // ==== Challenge 2: Reading Object Data ==== 
